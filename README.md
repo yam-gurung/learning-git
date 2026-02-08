@@ -2,6 +2,7 @@
 learning git
 
 git add .
+
 git commit -m "Resolved merge conflicts"
 
 git push --force origin <branch-name># PhotoManagement
